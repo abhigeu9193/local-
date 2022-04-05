@@ -2,8 +2,8 @@ import java.util.Arrays;
 
 class anngram {
   public static void main(String[] args) {
-    String str1 = "Race";
-    String str2 = "Care";
+    String str1 = "cat";
+    String str2 = "tac";
     
     str1 = str1.toLowerCase();
     str2 = str2.toLowerCase();
