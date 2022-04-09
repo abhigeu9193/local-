@@ -1,5 +1,5 @@
 import java.util.Randomutils;
-public class RandomutilS {
+class RandomutilS {
     
 
     public static void main(String a[]){
